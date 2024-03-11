@@ -12,6 +12,6 @@ title: Home
 
 [github](https://github.com/ian-montgomery)  
  
-[resume](https://cv.ianmontgomery.dev/ç)  
+[cv](https://cv.ianmontgomery.dev/)  
 
 hello@ianmontgomery.dev
