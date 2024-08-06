@@ -14,4 +14,4 @@ title: Home
  
 [cv](https://cv.ianmontgomery.dev/)  
 
-hello@ianmontgomery.dev
+contact@ianmontgomery.dev
