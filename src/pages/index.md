@@ -1,17 +1,13 @@
 ---
 layout: ../layouts/Layout.astro
-title: Home
+title: 
 ---
 
 # Ian Montgomery
 
-## software engineer  
-<br/>
-
-[linkedin](https://www.linkedin.com/in/ian-montgomery/)  
-
-[github](https://github.com/ian-montgomery)  
- 
+Software Engineer  
+&nbsp;  
 [cv](https://cv.ianmontgomery.dev/)  
-
-contact@ianmontgomery.dev
+[github](https://github.com/ian-montgomery)  
+[linkedin](https://www.linkedin.com/in/ian-montgomery/)  
+[contact@ianmontgomery.dev]()
