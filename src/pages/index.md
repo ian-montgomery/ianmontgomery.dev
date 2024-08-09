@@ -10,4 +10,4 @@ Software Engineer
 [cv](https://cv.ianmontgomery.dev/)  
 [github](https://github.com/ian-montgomery)  
 [linkedin](https://www.linkedin.com/in/ian-montgomery/)  
-[contact@ianmontgomery.dev]()
+contact@ianmontgomery.dev
