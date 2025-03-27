@@ -1,11 +1,11 @@
 ---
 layout: ../layouts/Layout.astro
-title: 
+title: Ian Montgomery | DevOps Engineer 
 ---
 
 # Ian Montgomery
 
-Software Engineer  
+DevOps Engineer  
 &nbsp;  
 [cv](https://cv.ianmontgomery.dev/)  
 [github](https://github.com/ian-montgomery)  
